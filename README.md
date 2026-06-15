@@ -53,6 +53,10 @@ This project focuses on several practical questions:
 ```text
 AI-Talent-Market-Insights/
 ├── README.md
+├── CONTRIBUTING.md
+├── assets/
+│   ├── candidate-cold-call-decision-map-cn.png
+│   └── candidate-cold-call-decision-map-en.png
 ├── reports/
 │   ├── 01-300-conversations-9-insights.md
 │   ├── 02-ai-talent-map-framework.md
@@ -60,6 +64,7 @@ AI-Talent-Market-Insights/
 │   └── 04-foundation-model-talent-map.md
 ├── methodology/
 │   ├── ai-recruiting-field-playbook.md
+│   ├── candidate-cold-call-playbook.md
 │   ├── recruiting-research-methodology.md
 │   └── company-mapping-template.md
 ├── templates/
@@ -67,6 +72,8 @@ AI-Talent-Market-Insights/
 │   └── company-talent-map-template.md
 └── docs/
     └── roadmap.md
+```
+
 ```
 
 ```
