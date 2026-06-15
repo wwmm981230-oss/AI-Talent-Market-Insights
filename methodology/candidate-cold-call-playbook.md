@@ -34,151 +34,62 @@ The goal is to understand the candidate better, share useful market information,
 
 ---
 
-## 2. Information Map
 
-```mermaid
-mindmap
-  root((Cold Call Information Map))
-    Candidate Snapshot
-      Current company
-      Current team
-      Current role
-      Location
-      Seniority level
-      Reporting line
-      Team size or ownership
-    Career Timeline
-      Previous companies
-      Role changes
-      Reasons for leaving
-      Reasons for joining
-      Education background
-    Work and Project Fit
-      Technical direction
-      Main projects
-      Personal contribution
-      Project depth
-      Business or product context
-      Engineering delivery
-      Match with target role
-    Market Openness
-      Actively looking
-      Open to hearing opportunities
-      Not looking now
-      Current interview processes
-      Existing offers
-      Timing
-    Motivation
-      Compensation
-      Technical direction
-      Team quality
-      Company stage
-      Growth ceiling
-      Location
-      Workload
-      Stability
-    Opportunity Preference
-      Preferred role
-      Preferred company type
-      Preferred industry
-      Big tech or startup
-      IC or management
-      Location preference
-      Non-negotiables
-    Compensation
-      Current package
-      Cash and equity structure
-      Expected range
-      Minimum acceptable range
-      Other important factors
-    Decision Process
-      Competing opportunities
-      Key decision criteria
-      Possible concerns
-      Important constraints
-      Timeline
-    Next Step
-      Share JD
-      Review resume
-      Confirm interest
-      Schedule follow-up
-      Candidate consent
-      Follow-up time
-```
+## 2. Cold Call Decision Map / 陌 Call 信息脑图
 
----
+A candidate cold call is not a fixed checklist.
 
-## 2. 陌 Call 信息脑图
+In a real conversation, these topics usually appear in a mixed order. For example, a candidate may mention compensation while talking about current pain points, or reveal their real motivation while discussing other interview processes.
 
-```mermaid
-mindmap
-  root((陌 Call 要拿到的信息))
-    候选人基础画像
-      当前公司
-      当前团队
-      当前岗位
-      工作地点
-      职级年限
-      汇报关系
-      团队规模或职责范围
-    职业时间线
-      过往公司
-      岗位变化
-      离职原因
-      选择下一份工作的原因
-      教育背景
-    工作与项目匹配
-      技术方向
-      核心项目
-      个人贡献
-      项目深度
-      业务或产品场景
-      工程落地情况
-      与目标岗位匹配点
-    机会状态
-      主动看机会
-      愿意了解机会
-      暂时不看
-      当前面试流程
-      已有 offer
-      时间窗口
-    动机判断
-      薪酬
-      技术方向
-      团队质量
-      公司阶段
-      成长空间
-      地点
-      工作强度
-      稳定性
-    机会偏好
-      偏好岗位
-      偏好公司类型
-      偏好行业
-      大厂或创业公司
-      专家线或管理线
-      地点偏好
-      明确不考虑因素
-    薪酬信息
-      当前总包
-      现金和股权结构
-      期望范围
-      最低接受范围
-      薪酬之外的关注点
-    决策过程
-      竞品机会
-      核心决策标准
-      可能顾虑
-      重要约束
-      决策节奏
-    下一步动作
-      发送 JD
-      查看简历
-      确认意向
-      约后续沟通
-      获得候选人授权
-      确认跟进时间
-```
+So I do not see this map as a script to follow line by line.
+I see it as a decision framework.
+
+The goal is to quickly understand:
+
+* Who this candidate is;
+* Whether the fit is real;
+* Why they might move;
+* What kind of opportunity they want;
+* Whether the process can move forward.
+
+### English Version
+
+![Candidate Cold Call Decision Map](../assets/candidate-cold-call-decision-map-en.png)
+
+### 中文版本
+
+陌 call 不是一套固定的问题清单。
+
+在真实沟通里，这些信息通常会交叉出现。比如，候选人在聊当前痛点时可能会提到薪资，在聊其他面试流程时也可能暴露真实动机。
+
+所以这张图不是一份逐条照问的话术，而是一个信息判断框架。
+
+它的目标是帮助我快速判断：
+
+* 候选人是谁；
+* 是否真的匹配目标岗位；
+* 为什么可能会动；
+* 他想要什么样的机会；
+* 当前是否能继续推进。
+
+![陌 Call 信息判断框架](../assets/candidate-cold-call-decision-map-cn.png)
+
+### How I Use This Map / 我如何使用这张图
+
+I use this map before and after candidate calls.
+
+Before the call, it reminds me what kind of information I should pay attention to.
+During the call, it helps me avoid only listening to keywords or surface-level answers.
+After the call, it helps me decide whether the candidate should be moved forward, warmed up, or kept in the long-term talent pool.
+
+我会在通话前后使用这张图。
+
+通话前，它提醒我需要关注哪些关键信息。
+通话中，它帮助我避免只听关键词或表层回答。
+通话后，它帮助我判断候选人是应该继续推进、继续培养意向，还是放入长期人才池维护。
+
+
+
 
 ---
 
