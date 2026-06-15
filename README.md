@@ -134,13 +134,16 @@ All notes are personal reflections and may be revised as I continue learning.
 
 ## 9. Roadmap
 
-* [x] Build the initial repository structure
-* [x] Publish first AI talent market observations
-* [ ] Expand VLA / robotics talent mapping notes
-* [ ] Add LLM Infra talent map
-* [ ] Add autonomous driving talent mobility analysis
-* [ ] Add Chinese-English summaries
-* [ ] Build a simple Recruiting Copilot demo based on these insights
+* [x] 搭建初始仓库结构
+* [x] 发布第一版 AI 人才市场观察
+* [ ] 扩展 VLA / 机器人人才 Mapping 笔记
+* [ ] 增加基座模型人才地图，包括预训练、后训练、推理优化、数据工程、模型评测等方向
+* [ ] 增加 LLM Infra 人才地图，包括分布式训练、推理部署、AI Infra、GPU 集群和工程优化等方向
+* [ ] 增加 Agent / 应用层大模型岗位观察，包括 Agent Harness、数据策略、搜索推荐和产品工程等方向
+* [ ] 增加大模型公司人才流动分析
+* [ ] 增加中英文双语摘要
+* [ ] 基于这些洞察搭建一个简单的 Recruiting Copilot Demo
+
 
 ## 10. 中文简介
 
