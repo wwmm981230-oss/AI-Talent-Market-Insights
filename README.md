@@ -155,19 +155,37 @@ It does not include confidential client information, candidate privacy, or non-p
 
 All notes are personal reflections and may be revised as I continue learning.
 
-
 ## 9. Roadmap
+
+### English
 
 * [x] Set up the initial repository structure
 * [x] Publish the first set of AI talent market notes
+* [ ] Expand the foundation model talent mapping notes, covering pre-training, post-training, alignment, data, evaluation, model research, and ML systems
+* [ ] Build a public foundation model talent network map, based on signals from GitHub, LinkedIn, Maimai, public papers, open-source projects, competitions, and technical communities
 * [ ] Expand the VLA and robotics talent mapping notes
-* [ ] Add a foundation model talent map, covering pre-training, post-training, alignment, data, evaluation, and model research roles
-* [ ] Add an LLM Infra talent map, covering distributed training, inference optimization, GPU clusters, deployment, and engineering efficiency
+* [ ] Add an LLM Infra talent map, covering distributed training, inference optimization, GPU clusters, model serving, deployment, and engineering efficiency
 * [ ] Add notes on Agent and application-layer LLM roles, including Agent Harness, data strategy, search, recommendation, and product engineering
+* [ ] Add an AI recruiting field playbook, covering talent mapping, candidate outreach, cold calls, motivation analysis, process management, and offer closing
+* [ ] Add reusable recruiting templates for candidate notes, company mapping, sourcing research, and talent pool analysis
 * [ ] Add talent mobility analysis for leading LLM companies
 * [ ] Add bilingual summaries in Chinese and English
 * [ ] Build a simple Recruiting Copilot demo based on these insights
 
+### 中文
+
+* [x] 搭建初始仓库结构
+* [x] 发布第一版 AI 人才市场观察
+* [ ] 扩展基座模型人才 Mapping 笔记，覆盖预训练、后训练、对齐、数据、评测、模型研究和 ML Systems 等方向
+* [ ] 基于 GitHub、LinkedIn、脉脉、公开论文、开源项目、竞赛和技术社区等公开信息，建立基座模型方向的人才网络 Mapping
+* [ ] 扩展 VLA 和机器人人才 Mapping 笔记
+* [ ] 增加 LLM Infra 人才地图，覆盖分布式训练、推理优化、GPU 集群、模型 Serving、部署和工程效率等方向
+* [ ] 增加 Agent 和应用层大模型岗位观察，覆盖 Agent Harness、数据策略、搜索、推荐和产品工程等方向
+* [ ] 增加 AI 招聘实战方法论，覆盖人才 Mapping、候选人触达、陌 call、动机判断、流程管理和 offer 推进
+* [ ] 增加可复用的招聘模板，包括候选人沟通记录、公司 Mapping、寻访研究和人才池分析
+* [ ] 增加头部大模型公司的人才流动分析
+* [ ] 增加中英文双语摘要
+* [ ] 基于这些洞察搭建一个简单的 Recruiting Copilot Demo
 
 
 ## 10. 中文简介
