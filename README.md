@@ -56,6 +56,8 @@ AI-Talent-Market-Insights/
 │   ├── 01-300-conversations-9-insights.md
 │   ├── 02-ai-talent-map-framework.md
 │   └── 03-vla-robotics-recruiting-case.md
+    └── 04-foundation-model-talent-map.md
+
 ├── methodology/
 │   ├── recruiting-research-methodology.md
 │   └── company-mapping-template.md
