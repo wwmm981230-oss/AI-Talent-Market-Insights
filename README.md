@@ -132,17 +132,19 @@ It does not include confidential client information, candidate privacy, or non-p
 
 All notes are personal reflections and may be revised as I continue learning.
 
+
 ## 9. Roadmap
 
-* [x] 搭建初始仓库结构
-* [x] 发布第一版 AI 人才市场观察
-* [ ] 扩展 VLA / 机器人人才 Mapping 笔记
-* [ ] 增加基座模型人才地图，包括预训练、后训练、推理优化、数据工程、模型评测等方向
-* [ ] 增加 LLM Infra 人才地图，包括分布式训练、推理部署、AI Infra、GPU 集群和工程优化等方向
-* [ ] 增加 Agent / 应用层大模型岗位观察，包括 Agent Harness、数据策略、搜索推荐和产品工程等方向
-* [ ] 增加大模型公司人才流动分析
-* [ ] 增加中英文双语摘要
-* [ ] 基于这些洞察搭建一个简单的 Recruiting Copilot Demo
+* [x] Set up the initial repository structure
+* [x] Publish the first set of AI talent market notes
+* [ ] Expand the VLA and robotics talent mapping notes
+* [ ] Add a foundation model talent map, covering pre-training, post-training, alignment, data, evaluation, and model research roles
+* [ ] Add an LLM Infra talent map, covering distributed training, inference optimization, GPU clusters, deployment, and engineering efficiency
+* [ ] Add notes on Agent and application-layer LLM roles, including Agent Harness, data strategy, search, recommendation, and product engineering
+* [ ] Add talent mobility analysis for leading LLM companies
+* [ ] Add bilingual summaries in Chinese and English
+* [ ] Build a simple Recruiting Copilot demo based on these insights
+
 
 
 ## 10. 中文简介
@@ -159,4 +161,4 @@ All notes are personal reflections and may be revised as I continue learning.
 * 候选人为什么接受、犹豫或拒绝一个机会；
 * 科技招聘如何从关键词搜索，走向更深的人才理解和市场判断。
 
-对我来说，这个项目也是一个长期练习：把招聘经验结构化，把行业观察沉淀下来，并持续提高自己对技术、业务、组织和候选人选择的理解。
+对我来说，这个项目也是一个长期练习：把招聘经验结构化，把行业观察沉淀下来，并持续提高自己对技术、业务、组织和候选人选择的理解。现阶段重点关注基模方向，欢迎有相关经验的候选人和HR多多沟通交流。
