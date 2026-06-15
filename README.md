@@ -47,6 +47,7 @@ This project focuses on several practical questions:
 5. How can recruiters build talent maps beyond simple keyword search?
 6. Which parts of recruiting can be supported by AI tools, and which parts still depend on human judgment?
 
+
 ## 4. Repository Structure
 
 ```text
@@ -55,10 +56,10 @@ AI-Talent-Market-Insights/
 ├── reports/
 │   ├── 01-300-conversations-9-insights.md
 │   ├── 02-ai-talent-map-framework.md
-│   └── 03-vla-robotics-recruiting-case.md
-    └── 04-foundation-model-talent-map.md
-
+│   ├── 03-vla-robotics-recruiting-case.md
+│   └── 04-foundation-model-talent-map.md
 ├── methodology/
+│   ├── ai-recruiting-field-playbook.md
 │   ├── recruiting-research-methodology.md
 │   └── company-mapping-template.md
 ├── templates/
@@ -68,30 +69,50 @@ AI-Talent-Market-Insights/
     └── roadmap.md
 ```
 
+```
+
 ## 5. Main Topics
 
 ### AI Talent Market Notes
 
 Observations on hiring demand, candidate mobility, compensation, career timing, and market gaps in AI-related roles.
 
+### Talent Maps
+
+Structured notes on talent pools in different AI directions, including VLA / robotics, foundation models, LLM Infra, autonomous driving, and multimodal AI.
+
 ### Company and Team Mapping
 
-A way to map talent pools across big tech, autonomous driving companies, embodied AI startups, robotics companies, cloud vendors, hardware companies, and research labs.
+A practical framework for mapping talent pools across big tech, LLM companies, autonomous driving companies, embodied AI startups, robotics companies, cloud vendors, hardware companies, and research labs.
 
 ### Role Understanding
 
 Notes on roles such as:
 
+* Foundation Model Researcher
+* Pre-training / Post-training Researcher
+* LLM Infra Engineer
 * VLA Algorithm Engineer
 * Robotics Algorithm Engineer
 * Autonomous Driving Perception / Planning Engineer
-* LLM Infra Engineer
 * Agent / Data Strategy Engineer
 * Multimodal Algorithm Engineer
 
-### Recruiting Methodology
+### Recruiting Field Playbook
 
-How to turn a vague hiring need into a clearer talent profile, sourcing direction, candidate evaluation framework, and outreach strategy.
+A summary of practical recruiting methods from my executive search experience, including:
+
+* How to start a cold call with candidates;
+* How to clarify candidate motivation;
+* How to build a talent map;
+* How to evaluate role-candidate fit;
+* How to manage candidate communication;
+* How to support offer negotiation and closing.
+
+### Recruiting Templates
+
+Reusable templates for candidate interview notes, company mapping, sourcing research, and talent pool analysis.
+
 
 ## 6. Example Observation
 
